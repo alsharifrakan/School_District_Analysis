@@ -46,5 +46,28 @@ In oreder to start our analysis and to avoid the possibility of affecting any  f
 
 
 
+### **Analysis by school size**
+
+size ranges are as follows:  -small <1000      -medium 1000-2000       -large >2000
+
+![](images/school_size.png)
+
+
+We noticed that both small and medium schools outperformed large school in overall passing rates.
+
+#### **Analysis by spending**
+
+
+
+![](images/spending_ranges.png)
+
+
+
+
+
+
+
+
+
 
 
