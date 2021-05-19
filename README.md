@@ -15,3 +15,17 @@ the board requested to provide the following:
 ## **Results**
 
 ### **District Summary**
+
+
+![](images/district_summary.png)
+
+
+
+### **School summary**
+
+
+![](images/school_summary.png)
+
+
+
+
