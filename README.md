@@ -24,7 +24,7 @@ the board requested to provide the following:
 ### **School summary**
 
 
-![](images/school_summary.png)
+![](images/school_summary1.png)
 
 
 
