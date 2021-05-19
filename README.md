@@ -78,6 +78,47 @@ school types are as follows:   -Charter    -District
 we notice that Charter schools outperform district schools when it comes to overall passing rates.
 
 
+## **Results**
+
+* what happend when we removed ninh garders scores from THS to the school district:
+  - did not affect AVG reading score.
+  - AVG Math scores and overall passing rate were affected negatively however in a very limited way.
+
+* Affects on THS:
+  - percentage of students passing both Math and Reading dropped siginificantly.
+  - Overall passing Percentage was affected negatively and significantly.
+
+
+* Affects on school rankings:
+  - THS is no longer on the top 5 high schools in th edistrict.
+  - the Bottom 5 school sin the district were not affected.
+
+* Scores by School size when removed 9th graderes from THS:
+  - Affected Medium school size
+  - Passing perentges for both reading and Math  went down.
+  - Overall passing percentage dropped down .
+ 
+ 
+ * Scores by school spending:
+   - Affected the range between $601-$650
+   - percentage passing for both Math and Reading dropped.
+   - Overall passing percentage dropped.
+
+
+ * Score by school type:
+   - percentage passing for both Math and reading dropped slightly.
+   - Overall passing percentage dropped.
+  
+  
+ 
+ ## **Summary**
+ 
+ we notice that Top 5 schools are all Charter schools while the bottom 5 schools are all District schools . After removing the ninth graders from THS we noticed some effects which some of them were significant while the others were slight and subtle.
+
+
+
+
+
 
 
 
