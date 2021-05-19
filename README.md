@@ -27,5 +27,24 @@ the board requested to provide the following:
 ![](images/school_summary1.png)
 
 
+### **Working with THS scores**
+
+In oreder to start our analysis and to avoid the possibility of affecting any  further caluclation we have replaced ninth graders at the THS Math and Reading scores with
+"NaN" which means Not a Number.
+
+#### **THS Reading scores**
+
+
+![](images/reading_scores.png)
+
+
+
+#### **THS Math scores**
+
+
+![](images/math_scores.png)
+
+
+
 
 
