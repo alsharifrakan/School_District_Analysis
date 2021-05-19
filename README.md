@@ -55,11 +55,27 @@ size ranges are as follows:  -small <1000      -medium 1000-2000       -large >2
 
 We noticed that both small and medium schools outperformed large school in overall passing rates.
 
-#### **Analysis by spending**
+### **Analysis by spending**
 
-
+spending ranges are as follows:   -$0-$550      -$551-$600    -$601-$650     -$651-$700
 
 ![](images/spending_ranges.png)
+
+
+we noticed that schools  that spends between $551 and $600 has out performed significantly all other schools when it comes to overall passing rates.
+
+
+
+### **Analysis by school type**
+
+
+school types are as follows:   -Charter    -District
+
+
+![](images/school_type.png)
+
+
+we notice that Charter schools outperform district schools when it comes to overall passing rates.
 
 
 
